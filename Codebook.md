@@ -7,7 +7,7 @@ This Codebook gives the relevant information about the data from the Human Activ
 * subject - The ID of the volunteer performing the experiment
 * activities - The type of activity perfomed by the subject
 
-## Measuerments
+## Measurements
 
 tBodyAccMeanX 
 tBodyAccMeanY               
