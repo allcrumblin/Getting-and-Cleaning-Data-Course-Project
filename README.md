@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
 
 This repository contains the solution to the Getting and Cleaning Data Course Project. The script gets, cleans and analyzes the data collected from the accelerometers from the Samsung Galaxy S smartphone from volunteers that performed six different activites.
 
