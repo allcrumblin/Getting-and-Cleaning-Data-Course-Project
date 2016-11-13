@@ -9,7 +9,7 @@ This Codebook gives the relevant information about the data from the Human Activ
 
 ## Measuerments
 
-tBodyAccMeanX                tBodyAccMeanY               
+tBodyAccMeanX                              tBodyAccMeanY               
 tBodyAccMeanZ                tBodyAccStdX                
 tBodyAccStdY                 tBodyAccStdZ                
 tGravityAccMeanX             tGravityAccMeanY            
