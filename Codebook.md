@@ -11,9 +11,9 @@ This Codebook gives the relevant information about the data from the Human Activ
 
 ## Activity Labels
 
-WALKING (value 1)
-WALKING_UPSTAIRS (value 2)
-WALKING_DOWNSTAIRS (value 3)
-SITTING (value 4)
-STANDING (value 5)
-LAYING (value 6)
+* WALKING (value 1)
+* WALKING_UPSTAIRS (value 2)
+* WALKING_DOWNSTAIRS (value 3)
+* SITTING (value 4)
+* STANDING (value 5)
+* LAYING (value 6)
