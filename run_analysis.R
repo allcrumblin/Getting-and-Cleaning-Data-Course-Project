@@ -51,7 +51,7 @@ UCI <- rbind(train, test)
 # Add Labels
 colnames(UCI) <- c("subject", "activity", featuresStat.names)
 
-# sub factors in actiity column by the descriptive variable names found in activityLabels
+# sub factors in activity column by the descriptive variable names found in activityLabels
 UCI$activity <- factor(UCI$activity, levels = activityLabels[,1], labels = activityLabels[,2])
 # turn subject variables into factors
 UCI$subject <- as.factor(UCI$subject)
